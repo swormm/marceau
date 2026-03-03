@@ -27,7 +27,7 @@
 | Email | caroline.cocozza1@gmail.com |
 | Téléphone | 06 67 90 72 02 |
 
-### 💳 Informations bancaires (OSINT simulé)
+### 💳 Informations bancaires
 | Champ | Information |
 |-------|-------------|
 | Titulaire affiché | CAROLINE COCOZZA |
